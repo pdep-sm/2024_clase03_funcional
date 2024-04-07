@@ -1,7 +1,3 @@
-# ejercicio-alumno
+# Clase 03 de Funcional - 2024
 
-## Integrantes
-
-- integrante1 (usuario github)
-- integrante2 (usuario github)
-...
+Pequeño resumen de algunas de las cosas que creamos y probamos durante la clase.
